@@ -1,0 +1,42 @@
+
+      body {
+        background-color: orange;
+      }
+
+      .topnav {
+        overflow: hidden;
+        background-color: green;
+      }
+
+      .topnav a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 15px 20px;
+        text-decoration: none;
+      }
+
+      img{
+        float: left;
+        width : 170px;
+        height : 200px;
+      }
+      ol > li {
+        border: 3px solid;
+        clear: left;
+        list-style-type: none;
+        width: 600px;
+        height: 200px;
+        margin-bottom: 40px;
+      }
+
+      .topnav a:hover {
+        background-color: red;
+        color: black;
+      }
+      books{
+        display:inline;
+      }
+
+    
